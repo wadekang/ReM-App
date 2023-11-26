@@ -1,0 +1,3 @@
+[submodule "rem-ui-app"]
+	path = rem-ui-app
+	url = https://github.com/wadekang/rem-ui-app.git
