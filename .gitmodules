@@ -1,3 +1,6 @@
 [submodule "rem-ui-app"]
 	path = rem-ui-app
 	url = https://github.com/wadekang/rem-ui-app.git
+[submodule "rem-backend-app"]
+	path = rem-backend-app
+	url = https://github.com/wadekang/rem-backend-app.git
